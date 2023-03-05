@@ -1,3 +1,9 @@
+# Clion
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+
+
 # Prerequisites
 *.d
 
