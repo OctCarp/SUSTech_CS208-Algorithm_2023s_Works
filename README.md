@@ -10,4 +10,6 @@ I upload descriptions in [![](https://img.shields.io/badge/-Markdown-white?style
 | Lab1     | [Stable Matching](Lab1/)                |      |
 | Lab2 - A | [Pay a new year call](Lab2-A/)          |      |
 | Lab2 - B | [Simplicity Favors Regularity](Lab2-B/) |      |
+| Lab3 - A | [Careless Boy](Lab3-A/)                 |      |
+| Lab3 - B | [Flow Control](Lab3-B/)                 |      |
 
