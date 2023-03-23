@@ -12,4 +12,6 @@ I upload descriptions in [![](https://img.shields.io/badge/-Markdown-white?style
 | Lab2 - B | [Simplicity Favors Regularity](Lab2-B/) |      |
 | Lab3 - A | [Careless Boy](Lab3-A/)                 |      |
 | Lab3 - B | [Flow Control](Lab3-B/)                 |      |
+| Lab4 - A | [TV Breaker](Lab4-A/)                   |      |
+| Lab4 - B | [Fruit](Lab4-B/)                        |      |
 
