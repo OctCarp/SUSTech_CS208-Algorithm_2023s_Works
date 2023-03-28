@@ -1,17 +1,19 @@
-# SUSTech_CS208-ADA_2022s_MyAnswer
+# SUSTech_CS208-ADA_2022s_Works
 Assignments of CS208 2022 Spring: Algorithm Design and Analysis, SUSTech
 
 I upload descriptions in [![](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=black)](https://www.markdownguide.org/) for every problem.
 
-## Contest
+## [Lab Practice](Practices/)
 
-| TITLE    | Name                                    | AC   |
-| -------- | --------------------------------------- | ---- |
-| Lab1     | [Stable Matching](Lab1/)                |      |
-| Lab2 - A | [Pay a new year call](Lab2-A/)          |      |
-| Lab2 - B | [Simplicity Favors Regularity](Lab2-B/) |      |
-| Lab3 - A | [Careless Boy](Lab3-A/)                 |      |
-| Lab3 - B | [Flow Control](Lab3-B/)                 |      |
-| Lab4 - A | [TV Breaker](Lab4-A/)                   |      |
-| Lab4 - B | [Fruit](Lab4-B/)                        |      |
+## Assignment Contest
+
+| Lab ID | A                              |      | B                                       |      |
+| ------ | ------------------------------ | ---- | --------------------------------------- | ---- |
+| Lab 1  | [Stable Matching](Lab1/)       |      |                                         |      |
+| Lab 2  | [Pay a new year call](Lab2/A/) |      | [Simplicity Favors Regularity](Lab2/B/) |      |
+| Lab 3  | [Careless Boy](Lab3/A/)        |      | [Flow Control](Lab3/B/)                 |      |
+| Lab 4  | [TV Breaker](Lab4/A/)          |      | [Fruit](Lab4/B/)                        |      |
+|        |                                |      |                                         |      |
+|        |                                |      |                                         |      |
+|        |                                |      |                                         |      |
 

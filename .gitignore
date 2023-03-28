@@ -3,6 +3,10 @@
 cmake-build-debug/
 CMakeLists.txt
 
+# test file
+.exe
+main.cpp
+backup.cpp
 
 # Prerequisites
 *.d
