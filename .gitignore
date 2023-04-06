@@ -4,6 +4,7 @@ cmake-build-debug/
 CMakeLists.txt
 
 # test file
+Demos/
 .exe
 main.cpp
 backup.cpp
