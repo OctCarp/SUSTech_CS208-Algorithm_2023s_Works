@@ -2,6 +2,6 @@
 
 | TITLE    | Name           | Score |
 | -------- | -------------- | ----- |
-| Lab5 - A | [Shopping](A/) |       |
-| Lab5 - B | [Voting](B/)   |       |
+| Lab5 - A | [Shopping](A/) | 100   |
+| Lab5 - B | [Voting](B/)   | 100   |
 
