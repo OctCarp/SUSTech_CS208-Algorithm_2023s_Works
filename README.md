@@ -16,4 +16,5 @@ I upload descriptions in [![](https://img.shields.io/badge/-Markdown-white?style
 | Lab 5  | [Shopping](Lab5/A/)                     | Y    | [Voting](Lab5/B/)                                | Y    |
 | Lab 6  | [Michael's Shopping Challenge](Lab6/A/) |      | [Urban Planning](Lab6/B/)                        |      |
 | Lab 7  | [Modify](Lab7/A/)                       |      | [The Best Way to Wipe out a Friendship](Lab7/A/) |      |
+| Lab 8  | [Closest](Lab8/A/)                      |      | [Urban Construction](Lab8/B/)                    |      |
 
