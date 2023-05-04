@@ -2,6 +2,6 @@
 
 | TITLE    | Name                     | Score |
 | -------- | ------------------------ | ----- |
-| Lab8 - A | [Closest](A/)            |       |
-| Lab8 - B | [Urban Construction](B/) |       |
+| Lab8 - A | [Closest](A/)            | 100   |
+| Lab8 - B | [Urban Construction](B/) | 100   |
 
