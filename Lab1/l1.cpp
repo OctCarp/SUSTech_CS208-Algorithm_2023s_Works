@@ -25,7 +25,7 @@ int n;
 unordered_map<string, int> men_map;
 unordered_map<string, int> women_map;
 
-inline void disable_syn() { std::ios_base::sync_with_stdio(0), std::cin.tie(0), std::cout.tie(0); }
+inline void disable_syn() { std::ios_base::sync_with_stdio(false), std::cin.tie(0), std::cout.tie(0); }
 
 void read_data();
 
@@ -39,9 +39,7 @@ int main() {
     init_rank();
     stable_match();
 
-    rep(i, 1, n) {
-        cout << ms[i].name << ' ' << wms[ms[i].wife].name << '\n';
-    }
+    rep(i, 1, n) cout << ms[i].name << ' ' << wms[ms[i].wife].name << endl;
 
     return 0;
 }
