@@ -2,6 +2,6 @@
 
 | TITLE    | Name        | Score |
 | -------- | ----------- | ----- |
-| Lab9 - A | [Candy](A/) |       |
-| Lab9 - B | [Hotel](B/) |       |
+| Lab9 - A | [Candy](A/) | 100   |
+| Lab9 - B | [Hotel](B/) | 100   |
 
