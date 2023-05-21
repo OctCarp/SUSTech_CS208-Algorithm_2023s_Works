@@ -49,9 +49,7 @@ One line an integer. The integer should be the answer modulo $10^9+7$, which mea
 
 ## Constraints
 
-For 60% testcases, $1≤n≤200$.
-
-For 100% testcases, $1≤n≤2000$.
+For 100% testcases, $1≤n≤200$.
 
 ## Hints:
 
