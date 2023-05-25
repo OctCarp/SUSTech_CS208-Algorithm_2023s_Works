@@ -3,6 +3,9 @@
 cmake-build-debug/
 CMakeLists.txt
 
+# vscode
+.vscode/
+
 # test file
 Demos/
 .exe
