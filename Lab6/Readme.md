@@ -2,6 +2,6 @@
 
 | TITLE    | Name                               | Score |
 | -------- | ---------------------------------- | ----- |
-| Lab6 - A | [Michael's Shopping Challenge](A/) |       |
-| Lab6 - B | [Urban Planning](B/)               |       |
+| Lab6 - A | [Michael's Shopping Challenge](A/) | 100   |
+| Lab6 - B | [Urban Planning](B/)               | 100   |
 

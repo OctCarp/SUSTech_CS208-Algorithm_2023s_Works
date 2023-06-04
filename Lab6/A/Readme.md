@@ -6,7 +6,7 @@ Michael is excited about the annual sale at his favorite store, where he can use
 
 ## Input
 
-The input consists of three integers on the first line: $n$, $m$, and $k$ $(1≤n≤50000,1≤m≤10^14,0≤k≤n)$, where $n$ is the number of items, $m$ is the budget and $k$ is the number of available coupons.
+The input consists of three integers on the first line: $n$, $m$, and $k$ $(1≤n≤50000,1≤m≤10^{14},0≤k≤n)$, where $n$ is the number of items, $m$ is the budget and $k$ is the number of available coupons.
 
 The following $n$ lines each contain two integers, $p_i$ and $c_i$ $(1≤c_i≤p_i≤10^9)$, representing the original price and discounted price of the $i$-th item when a coupon is applied, respectively.
 

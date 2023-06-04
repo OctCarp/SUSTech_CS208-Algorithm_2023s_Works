@@ -2,6 +2,6 @@
 
 | TITLE     | Name          | Score |
 | --------- | ------------- | ----- |
-| Lab12 - A | [Cyclops](A/) |       |
+| Lab12 - A | [Cyclops](A/) | 100   |
 | Lab12 - B | [Cube](B/)    |       |
 

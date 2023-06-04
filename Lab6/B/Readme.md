@@ -14,11 +14,11 @@ This problem is too easy for **Justin**, so he solved it in a second.
 
 **lhyyy** travelled to this city to visit **Justin**. However, he is not good at graph theory at all and he got lost. Can you find out how many regions there are in the city for **lhyyy**?
 
-In other words, given a tree, you should split the leaves into sets such that the distance between any two leaves in the same set is not greater than �, and find out the minimal number of sets.
+In other words, given a tree, you should split the leaves into sets such that the distance between any two leaves in the same set is not greater than $k$, and find out the minimal number of sets.
 
 ### Input Format
 
-The first line contains two integers $n,k (3≤n≤10^5,1≤k<n)$.
+The first line contains two integers $n,k (3≤n≤10^5,1≤k＜n)$.
 
 The $i$-th $(2≤i≤n)$ line contains two integers $x_i,y_i$, denoting an edge $\{x_i,y_i\}$.
 
